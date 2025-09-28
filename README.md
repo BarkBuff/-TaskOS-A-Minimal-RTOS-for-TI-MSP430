@@ -1,9 +1,5 @@
 # µTaskOS
 
-*A tiny OS with not-so-tiny ambitions.*
-
----
-
 ### What is this?
 
 µTaskOS isn’t here to blink LEDs — it’s here to make **real multitasking on microcontrollers feel inevitable**. A lightweight, preemptive RTOS designed for MSP430 (and cousins), built from scratch, in C and a whisper of assembly.
